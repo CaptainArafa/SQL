@@ -1,3 +1,6 @@
+--Gets top 10 highest paying remote jobs for Data Analysts 
+
+
 SELECT
     job_id,
     job_title,
