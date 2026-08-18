@@ -12,3 +12,13 @@ GROUP BY
 ORDER BY 
     demand_count DESC
 LIMIT 5
+
+/*# ==============================================================================
+# MOST DEMANDED DATA ANALYST SKILLS (TOP 5 BY JOB POSTING COUNT)
+# Key Insight: SQL and Excel lead sheer volume; SQL + Python + 1 Viz tool forms the core trifecta.
+# ==============================================================================
+# • 1. SQL:      92,628 postings (~30.6% share of top 5) | #1 baseline requirement
+# • 2. Excel:    67,031 postings (~22.1% share of top 5) | Universal business tool
+# • 3. Python:   57,326 postings (~18.9% share of top 5) | #1 scripting/analytics lang
+# • 4. Tableau:  46,554 postings (~15.4% share of top 5) | Lead dedicated BI tool
+# • 5. Power BI: 39,468 postings (~13.0% share of top 5) | Close second BI tool*/

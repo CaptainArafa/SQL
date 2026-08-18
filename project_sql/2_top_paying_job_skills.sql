@@ -29,4 +29,10 @@ INNER JOIN skills_dim ON skills_dim.skill_id = skills_job_dim.skill_id
 ORDER BY 
     salary_year_avg
 
-
+/*# SKILL FREQUENCY IN HIGH-PAYING DA POSTINGS ($135k-$165k Range):
+# ----------------------------------------------------------------------
+# Core Languages | python (7/9 roles), sql (6/9 roles), r (5/9 roles)
+# BI / Viz Tools | tableau (3/9), looker (3/9), excel (3/9), power bi (2/9)
+# Engineering/Cloud | aws (2/9), pandas (2/9), bigquery, gcp, kubernetes, mysql
+# Specialist Ops | scikit-learn, golang, java, c++, sas, matlab
+# Takeaway       | Python + SQL + 1 BI tool forms the baseline for $135k+ remote roles*/
